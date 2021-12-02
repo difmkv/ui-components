@@ -1,0 +1,9 @@
+{
+  "navMenu": [
+    { "label": "Product" },
+    { "label": "Pricing" },
+    { "label": "Docs" },
+    { "label": "Company" }
+  ],
+  "navLogin": [{ "label": "Log in" }, { "label": "Sign up" }]
+}

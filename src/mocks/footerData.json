@@ -1,0 +1,63 @@
+{
+  "tagline": "Segment is the world’s leading community for creatives to share, grow, and get hired.",
+  "socialIcons": [
+    {
+      "icon": "twitter",
+      "href": "https://dribbble.com/dribbble2"
+    },
+    {
+      "icon": "facebook",
+      "href": "https://dribbble.com/dribbble3"
+    },
+    {
+      "icon": "instagram",
+      "href": "https://dribbble.com/dribbble4"
+    },
+    {
+      "icon": "pinterest",
+      "href": "https://dribbble.com/dribbble5"
+    }
+  ],
+  "columns": [
+    {
+      "category": "Footer Category",
+      "links": [
+        { "label": "Footer Link", "href": "https://dribbble.com/dribbble1" },
+        { "label": "Footer Link", "href": "https://dribbble.com/dribbble2" },
+        { "label": "Footer Link", "href": "https://dribbble.com/dribbble3" },
+        { "label": "Footer Link", "href": "https://dribbble.com/dribbble4" },
+        { "label": "Footer Link", "href": "https://dribbble.com/dribbble5" }
+      ]
+    },
+    {
+      "category": "Footer Category",
+      "links": [
+        { "label": "Footer Link", "href": "https://dribbble.com/dribbble8" },
+        { "label": "Footer Link", "href": "https://dribbble.com/dribbble9" },
+        { "label": "Footer Link", "href": "https://dribbble.com/dribbble12" },
+        { "label": "Footer Link", "href": "https://dribbble.com/dribbble11" },
+        { "label": "Footer Link", "href": "https://dribbble.com/dribbble10" }
+      ]
+    },
+    {
+      "category": "Footer Category",
+      "links": [
+        { "label": "Footer Link", "href": "https://dribbble.com/dribbble15" },
+        { "label": "Footer Link", "href": "https://dribbble.com/dribbble16" },
+        { "label": "Footer Link", "href": "https://dribbble.com/dribbble17" },
+        { "label": "Footer Link", "href": "https://dribbble.com/dribbble18" },
+        { "label": "Footer Link", "href": "https://dribbble.com/dribbble19" }
+      ]
+    },
+    {
+      "category": "Footer Category",
+      "links": [
+        { "label": "Footer Link", "href": "https://dribbble.com/dribbble22" },
+        { "label": "Footer Link", "href": "https://dribbble.com/dribbble23" },
+        { "label": "Footer Link", "href": "https://dribbble.com/dribbble432" },
+        { "label": "Footer Link", "href": "https://dribbble.com/bbbl2643e" },
+        { "label": "Footer Link", "href": "https://dribbble.com/dri1bble" }
+      ]
+    }
+  ]
+}

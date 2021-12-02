@@ -1,0 +1,29 @@
+{
+  "category": "Content Types",
+  "tags": [
+    {
+      "active": false,
+      "tag": "Webinar"
+    },
+    {
+      "active": false,
+      "tag": "Video"
+    },
+    {
+      "active": true,
+      "tag": "Guide"
+    },
+    {
+      "active": false,
+      "tag": "Report"
+    },
+    {
+      "active": false,
+      "tag": "Case Stydy"
+    },
+    {
+      "active": true,
+      "tag": "Course"
+    }
+  ]
+}

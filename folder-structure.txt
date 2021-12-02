@@ -1,0 +1,60 @@
+components
+|_ atoms
+    |_ Background.tsx
+    |_ Button.tsx
+    |_ ColorDrop.tsx
+    |_ Display.tsx
+    |_ Link.tsx
+    |_ Logo.tsx
+    |_ NavLink.tsx
+    |_ Spacer.tsx
+    |_ Tag.tsx
+    |_ Thumbnail.tsx
+    |_ Typography.tsx
+|_molecules
+    |_ Card.tsx
+    |_ CardIconColumnDetails.tsx
+    |_ CardIconRowDetails.tsx
+    |_ Details.tsx
+    |_ Greeting.tsx
+    |_ NavLogin.tsx
+    |_ NavMenu.tsx
+    |_ SocialLinks.tsx
+|_organisms
+    |_ CardIconColumnDetailsListing.tsx
+    |_ CardIconRowDetailsListing.tsx
+    |_ CardListing.tsx
+    |_ ColumnListing.tsx
+    |_ Footer.tsx
+    |_ LinkListing.tsx
+    |_ NavBar.tsx
+    |_ PageLayout.tsx
+    |_ TagListing.tsx
+|_pages
+    |_ HomePage.tsx
+    |_ ProductsPage.tsx
+    
+hocs
+    |_ withLayout.tsx
+    |_ withWrapper.tsx
+
+icons
+    |_ IconFactory.tsx
+    |_ LogoSvgComponent.tsx
+
+stories
+    |_ Atoms
+    |_ Molecules
+    |_ Organisms
+    |_ Pages
+
+theme
+    |_ globalSyles.ts
+    |_ theme.ts
+
+typings
+    |_ colorTypings.ts
+    |_ fontsTypings.ts
+    |_ themeTypings.ts
+
+

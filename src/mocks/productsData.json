@@ -1,0 +1,50 @@
+{
+  "productsRowTitle": "Collaborative",
+  "productsRow": [
+    {
+      "icon": "instagram",
+      "title": "Distributed for flexibility",
+      "description": "It starts up in seconds so you can begin working immediately, and it can easily transform into an IDE, with the IntelliJ code-processing engine running separately from the editor itself. Fleet’s architecture is designed to support a range of configurations and workflows. You can simply run Fleet just on your machine, or move some of the processes elsewhere – for example by locating the code processing in the cloud. Fleet inherits the things that developers love the most from IntelliJ-based IDEs – project and context aware code completion, navigation to definitions and usages, on-the-fly code quality checks, and quick-fixes.",
+      "label": "Remote machine",
+      "testId": "bla"
+    },
+    {
+      "icon": "instagram",
+      "title": "Distributed for flexibility",
+      "description": "It starts up in seconds so you can begin working immediately, and it can easily transform into an IDE, with the IntelliJ code-processing engine running separately from the editor itself. Fleet’s architecture is designed to support a range of configurations and workflows. You can simply run Fleet just on your machine, or move some of the processes elsewhere – for example by locating the code processing in the cloud. Fleet inherits the things that developers love the most from IntelliJ-based IDEs – project and context aware code completion, navigation to definitions and usages, on-the-fly code quality checks, and quick-fixes.",
+      "label": "Remote machine",
+      "testId": "bla"
+    },
+    {
+      "icon": "instagram",
+      "title": "Distributed for flexibility",
+      "description": "It starts up in seconds so you can begin working immediately, and it can easily transform into an IDE, with the IntelliJ code-processing engine running separately from the editor itself. Fleet’s architecture is designed to support a range of configurations and workflows. You can simply run Fleet just on your machine, or move some of the processes elsewhere – for example by locating the code processing in the cloud. Fleet inherits the things that developers love the most from IntelliJ-based IDEs – project and context aware code completion, navigation to definitions and usages, on-the-fly code quality checks, and quick-fixes.",
+      "label": "Remote machine",
+      "testId": "bla"
+    }
+  ],
+  "productsColumnTitle": "Join the Fleet",
+  "productsColumn": [
+    {
+      "icon": "instagram",
+      "title": "Distributed for flexibility",
+      "description": "Fleet’s architecture is designed to support a range of configurations and workflows. You can simply run Fleet just on your machine, or move some of the processes elsewhere – for example by locating the code processing in the cloud.",
+      "label": "Remote machine",
+      "testId": "bla"
+    },
+    {
+      "icon": "instagram",
+      "title": "Distributed for flexibility",
+      "description": "Fleet’s architecture is designed to support a range of configurations and workflows. You can simply run Fleet just on your machine, or move some of the processes elsewhere – for example by locating the code processing in the cloud.",
+      "label": "Remote machine",
+      "testId": "bla"
+    },
+    {
+      "icon": "instagram",
+      "title": "Distributed for flexibility",
+      "description": "Fleet’s architecture is designed to support a range of configurations and workflows. You can simply run Fleet just on your machine, or move some of the processes elsewhere – for example by locating the code processing in the cloud.",
+      "label": "Remote machine",
+      "testId": "bla"
+    }
+  ]
+}
