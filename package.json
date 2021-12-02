@@ -23,7 +23,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 9001",
-    "build-storybook": "build-storybook -p 9001"
+    "build-storybook": "build-storybook -p 9001",
+    "build-static-webapp":"expo build:web"
   },
   "eslintConfig": {
     "extends": [
